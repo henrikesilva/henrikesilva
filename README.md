@@ -16,6 +16,5 @@
   <img align="center" alt="rick-angular" height="30" width="40" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="rick-Csharp" height="30" width="40" title=".Net Core" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="rick-kubernets" height="30" width="40" title=Kubernets"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="rick-react" height="30" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="rick-unity" height="30" title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />        
+  <img align="center" alt="rick-react" height="30" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
 </div>
