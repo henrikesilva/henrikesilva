@@ -1,4 +1,4 @@
-### Olá muito prazer! 
+### Olá muito prazer! 😁
 #### Eu sou o Henrique Lima ou Rick Lima se você preferir.
 #### Sou desenvolvedor de softwares focado em backend, mas precisamente em APIs e Jobs, mas com conhecimento em desenvolvimento de aplicações web frontend com angular e em constante aprendizado sobre react.
 
@@ -51,6 +51,6 @@ em jogos como Overwatch 2, Battlefield e Fortnite com os amigos.
      <img align="center" alt="linkedIn - Henrique Lima" height="20" width="30" title="linkedIn - Henrique Lima" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a><br>
   <p>
-     ✉️ <span>Email: henrikesilva.dev@gmail.com</span>
+     <span>Email: henrikesilva.dev@gmail.com</span> ✉️
   </p>
 </div>
