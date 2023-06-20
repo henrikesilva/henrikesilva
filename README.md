@@ -39,12 +39,12 @@ jogando com os meus amigos em finais de semana.
   <img align="center" alt="rick-react" height="30" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<div align="center"><br>
   <p>Caso tenha o interesse em conversar comigo pode me procurar através dos caminhos abaixo, será um prazer bater um papo.</p>
   <a href="https://www.linkedin.com/in/henrique-l-727aa2115/">
     LinkedIn: 
-     <img align="center" alt="linkedIn - Henrique Lima" height="30" width="40" title="linkedIn - Henrique Lima" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
+     <img align="center" alt="linkedIn - Henrique Lima" height="20" width="30" title="linkedIn - Henrique Lima" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a><br>
   <p>
      <span>Email: henrikesilva.dev@gmail.com</span>
   </p>
