@@ -13,8 +13,10 @@ e desde então me mantenho em constante aprendizado e tentando aprender ao máxi
 
 #### Hobbies e outras atividades:
 Eu sempre me defini como alguém curioso e ansioso por aprender coisas novas, por isso sempre busco aprender e entender o que se passa ao redor do mundo como um todo.
+
 Sou fotografo amador utilizando principalmente minha Canon 30D. O que me possibilita conhecer os lugares e pessoas e assim transmitir o sentimento que eu vejo nelas naquele momento.
-Sou ainda membro fundador junto com um colega do canal de youtube chamado <b>Arroz de Festa</b> (https://www.youtube.com/@adfesta) ondfe nós procuramos falar sobre conteudos geeks e repassar informações
+
+Sou ainda co-fundador do canal de youtube chamado <b>Arroz de Festa</b> (https://www.youtube.com/@adfesta) onde nós procuramos falar sobre conteudos geeks e repassar informações
 e algumas vezes informações e curiosidades sobre esse mundo.
 
 Sou praticante de esportes desde muito novo e tenho um amor incondicional por futebol, participando de campeonatos de futsal juvenil em meu municipio até o ano de 2016 e posteriormente 
