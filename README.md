@@ -43,6 +43,7 @@ em jogos como Overwatch 2, Battlefield e Fortnite com os amigos.
   <img align="center" alt="rick-angular" height="30" width="40" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="rick-Csharp" height="30" width="40" title=".Net Core" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="rick-kubernets" height="30" width="40" title=Kubernets"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="rick-nodeJs" height="30" width="40" title=NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
   <img align="center" alt="rick-react" height="30" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
 </div>
 
