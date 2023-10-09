@@ -1,19 +1,15 @@
 ### Olá muito prazer! 😁
-#### Eu sou o Henrique Lima ou Rick Lima se você preferir.
+#### Eu sou o Henrique Lima.
 #### Sou desenvolvedor de softwares focado em backend, mas precisamente em APIs e Jobs, mas com conhecimento em desenvolvimento de aplicações web frontend com angular e em constante aprendizado sobre react.
 
 ### Quem é o Henrique:
 Sou um jovem nascido na região metropolitana do estado de São Paulo, mais precisamente em Franco da Rocha.
 - Tecnólogo em informática pela ETEC Doutor Emilio Hernandez Aguilar.
 - Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista(UNIP) no ano de 2020.
-- Certificado nas categorias A1 e B2 nos exames de proficiência na lingua espanhola do MCER(Marco Comum Europeu) no ano de 2015 .
-  
-Amante de tecnologia e de brincar de construir coisas e alimentar a minha criatividade eu iniciei meus passos profissionais em 2015 atuando como jovem aprendiz na area de suporte a microcomputadores.
-e desde então me mantenho em constante aprendizado e tentando aprender ao máximo para atingir um dos meus objetivos de me tornar arquiteto de sistemas.
+- Certificado nas categorias A1 e B2 nos exames de proficiência na lingua espanhola do MCER(Marco Comum Europeu) no ano de 2015.
 
 #### Hobbies e outras atividades:
 Eu sempre me defini como alguém curioso e ansioso por aprender coisas novas, por isso sempre busco aprender e entender o que se passa ao redor do mundo como um todo.
-
 Sou fotografo amador utilizando principalmente minha Canon 30D. O que me possibilita conhecer os lugares e pessoas e assim transmitir o sentimento que eu vejo nelas naquele momento.
 
 Sou ainda co-fundador do canal de youtube chamado <b>Arroz de Festa</b> (https://www.youtube.com/@adfesta) onde nós procuramos falar sobre conteudos geeks e repassar informações
