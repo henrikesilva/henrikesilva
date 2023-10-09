@@ -1,6 +1,6 @@
 ### Olá muito prazer! 😁
-#### Eu sou o Henrique Lima.
-#### Sou desenvolvedor de softwares focado em backend, mas precisamente em APIs e Jobs, mas com conhecimento em desenvolvimento de aplicações web frontend com angular e em constante aprendizado sobre react.
+Eu sou o Henrique Lima.
+Sou desenvolvedor de softwares focado em backend, mas precisamente em APIs e Jobs, mas com conhecimento em desenvolvimento de aplicações web frontend com angular e em constante aprendizado sobre react.
 
 ### Quem é o Henrique:
 Sou um jovem nascido na região metropolitana do estado de São Paulo, mais precisamente em Franco da Rocha.
@@ -27,7 +27,7 @@ em jogos como Overwatch 2, Battlefield e Fortnite com os amigos.
   
 <div align="center">
   <a href="https://github.com/henrikesilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrikesilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrikesilva&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikesilva&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
