@@ -3,21 +3,13 @@ Eu sou o Henrique Lima.
 Sou desenvolvedor de softwares focado em backend, mas precisamente em APIs e Jobs, mas com conhecimento em desenvolvimento de aplicações web frontend com angular e em constante aprendizado sobre react.
 
 ### Quem é o Henrique:
-Sou um jovem nascido na região metropolitana do estado de São Paulo, mais precisamente em Franco da Rocha.
-- Tecnólogo em informática pela ETEC Doutor Emilio Hernandez Aguilar.
-- Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista(UNIP) no ano de 2020.
+Sou um jovem natural do municipio de Franco da Rocha região metropolitana do estado de São Paulo.
 - Certificado nas categorias A1 e B2 nos exames de proficiência na lingua espanhola do MCER(Marco Comum Europeu) no ano de 2015.
+- Tecnólogo em informática pela ETEC Doutor Emilio Hernandez Aguilar no nao de 2018.
+- Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista(UNIP) no ano de 2020.
 
-#### Hobbies e outras atividades:
-Eu sempre me defini como alguém curioso e ansioso por aprender coisas novas, por isso sempre busco aprender e entender o que se passa ao redor do mundo como um todo.
-Sou fotografo amador utilizando principalmente minha Canon 30D. O que me possibilita conhecer os lugares e pessoas e assim transmitir o sentimento que eu vejo nelas naquele momento.
-
-Sou ainda co-fundador do canal de youtube chamado <b>Arroz de Festa</b> (https://www.youtube.com/@adfesta) onde nós procuramos falar sobre conteudos geeks e repassar informações
-e algumas vezes informações e curiosidades sobre esse mundo.
-
-Sou praticante de esportes desde muito novo e tenho um amor incondicional por futebol, participando de campeonatos de futsal juvenil em meu municipio até o ano de 2016 e posteriormente 
-jogando com os meus amigos em finais de semana e de videogames no geral, adoro jogar titulos Single Player com histórias bem desenvolvidas e por vezes gosto de uma partida competitiva 
-em jogos como Overwatch 2, Battlefield e Fortnite com os amigos.
+### Meu Objetivo:
+- Alcançar o conhecimento necessário para me tornar arquiteto de sistemas e assim obter experiencia necessária para construir o meu próprio negocio e prover aplicações que auxiliem a sociedade no seu desenvolvimento
 
 <div align="center" style="font-weight: bold; font-size: 300px">
   GITHUB Stats:
@@ -44,7 +36,7 @@ em jogos como Overwatch 2, Battlefield e Fortnite com os amigos.
 </div>
 
 <div align="center" style="font-weight: bold; font-size: 300px"><br>
-  <p>Caso tenha o interesse em conversar comigo pode me procurar através dos caminhos abaixo, será um prazer bater um papo.</p>
+  <p>Vamos nos conectar? será um prazer bater um papo.</p>
   <a href="https://www.linkedin.com/in/henrique-l-727aa2115/">
     LinkedIn: 
      <img align="center" alt="linkedIn - Henrique Lima" height="20" width="30" title="linkedIn - Henrique Lima" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
